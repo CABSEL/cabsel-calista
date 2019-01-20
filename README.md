@@ -1,4 +1,4 @@
-<img style = "float: right;" src = "https://github.com/CABSEL/CALISTA/blob/master/calista.png">
+<img style = "float: right;" src = "https://github.com/CABSEL/calista-doc/blob/master/calista%20LOGO.png">
 
 CALISTA provides a user-friendly toolbox for the analysis of single cell expression data. CALISTA accomplishes three major tasks: 
 
