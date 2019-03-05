@@ -124,7 +124,7 @@ writeLines('*Add time info (1-Yes,0-No):*')
 writeLines('*Key the column or row (e.g 5) vector in the raw data set with time/cell stage info:*')
 5
 ```
-2. In this case, the number of clusters is determined using the eigengap plot. According to the eigengap plot below, we set the number of clusters to **4** in the console:
+3. In this case, the number of clusters is determined using the eigengap plot. According to the eigengap plot below, we set the number of clusters to **4** in the console:
 ```{r echo=FALSE,eval=TRUE}
 writeLines('CALISTA_clustering is running...')
 
@@ -132,11 +132,11 @@ writeLines('Optimal number of cluster according to max. eigenvalue: 4
 if you want to use this value press 0, else provide desired number of cluster:')
 4
 ```
-3. If desired, users can remove cells from specific clusters from further analysis. In this example, we do not want to remove any clusters. Hence, we enter 0 (no cluster removal) and then 1 to proceed with lineage inference:
+4. If desired, users can remove cells from specific clusters from further analysis. In this example, we do not want to remove any clusters. Hence, we enter 0 (no cluster removal) and then 1 to proceed with lineage inference:
 ```{r echo=FALSE,eval=TRUE}
 writeLines('Press 1 if you want to remove cell cluster(s). Press 0 otherwise: ')
 0
 writeLines('Press 1 if you want to perform additional analysis (e.g. lineage inference, cell ordering) , 0 otherwise: ')
 1
 ```
-4. Use CALISTA Shiny App to visualize the results (see video tutorial).
+5. Use CALISTA Shiny App to visualize the results (see video tutorial).
