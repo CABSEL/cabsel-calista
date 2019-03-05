@@ -10,7 +10,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## * CALISTA MAIN SCRIPT *
-# Running CALISTA without time or cell stage information
+
+### Running CALISTA without time or cell stage information
+
 Example 5. Hematopoietic stem cell differentiation.
 Analysis of RT-qPCR data in Moignard et al., [(Characterization of transcriptional networks in blood stem and progenitor cells using high-throughput single-cell gene expression analysis, Nat. Cell Biol. 15, 363–72 (2013)).](https://www.nature.com/articles/ncb2709)
 
