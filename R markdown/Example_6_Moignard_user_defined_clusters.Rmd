@@ -1,5 +1,5 @@
 ---
-title: "Example3_Moignard"
+title: "Example6_Moignard"
 author: "Nan Papili Gao"
 date: "3/4/2019"
 output: html_document
